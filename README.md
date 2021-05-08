@@ -20,6 +20,7 @@ The application consists of a dashboard, where the data is presented in a contin
 - Java
 - Spring Boot
 - Spring Data JPA
+- Spring Security
 - Maven
 ## Front end
 - HTML / CSS / Bootstrap / JS / TypeScript
