@@ -3,7 +3,7 @@
 
 # About project
 
-https://augusto-dsvendas-sds3.netlify.app
+https://sidney-salesdash.netlify.app
 
 Sales Dash is a full stack web application built during the 3rd edition of ** Spring React Week **, an event organized by [DevSuperior] (https://devsuperior.com "DevSuperior website").
 
