@@ -13,7 +13,7 @@ The application consists of a dashboard, where the data is presented in a contin
 ![Web 1](https://github.com/sidneyrod/assets/blob/main/others/desktop.gif)
 
 ## Conceptual model
-![Modelo Conceitual](https://github.com/AugustoCesar/assets/blob/main/sds3/sds3-mc.png)
+![Modelo Conceitual](https://github.com/sidneyrod/assets/blob/main/others/model-sales.png)
 
 # Technologies used
 ## Back end
@@ -38,7 +38,7 @@ Prerequisites: Java 11
 
 ```bash
 # clone repository
-git clone https://github.com/AugustoCesar/projeto-sds3
+git clone git@github.com:sidneyrod/sales-dash.git
 
 # enter the project back end folder
 cd backend
@@ -52,7 +52,7 @@ Prerequisites: npm / yarn
 
 ```bash
 # clone repository
-git clone https://github.com/AugustoCesar/projeto-sds3
+git clone git@github.com:sidneyrod/sales-dash.git
 
 # enter the project front end folder
 cd frontend
@@ -66,4 +66,4 @@ yarn start
 
 # Author
 
-[![Linkedin Badge](https://img.shields.io/badge/augusto&nbsp;cesar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/)
+![Linkedin Badge](https://img.shields.io/badge/sidney&nbsp;rodrigues-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-rodrigues-6305b0148/)
