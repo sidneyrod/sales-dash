@@ -10,7 +10,7 @@ Sales Dash is a full stack web application built during the 3rd edition of ** Sp
 The application consists of a dashboard, where the data is presented in a continuous, automated and paginated way.
 
 ## Layout web
-![Web 1](https://github.com/AugustoCesar/assets/blob/main/sds3/desktop.gif)
+![Web 1](https://github.com/sidneyrod/assets/blob/main/others/desktop.gif)
 
 ## Conceptual model
 ![Modelo Conceitual](https://github.com/AugustoCesar/assets/blob/main/sds3/sds3-mc.png)
