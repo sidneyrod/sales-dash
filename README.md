@@ -1,5 +1,5 @@
 # Sales Dash 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AugustoCesar/projeto-sds3/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/sidneyrod/sales-dash/blob/main/LICENSE) 
 
 # About project
 
