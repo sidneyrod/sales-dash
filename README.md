@@ -66,4 +66,4 @@ yarn start
 
 # Author
 
-![Linkedin Badge](https://img.shields.io/badge/sidney&nbsp;rodrigues-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-rodrigues-6305b0148/)
+[![Linkedin Badge](https://img.shields.io/badge/sidney&nbsp;rodrigues-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-rodrigues-6305b0148/)
